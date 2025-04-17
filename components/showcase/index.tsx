@@ -52,7 +52,7 @@ const Showcase = () => {
           </div>
         </div>
         <div className="max-w-[40rem] max-[1119px]:max-w-[30rem] max-[930px]:hidden">
-          <img src="../../showcase.png" alt="asdasd" />
+          <img src="../../showcase-img.png" alt="asdasd" />
         </div>
       </div>
       <div className="mt-10">
